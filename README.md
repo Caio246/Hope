@@ -1,6 +1,8 @@
 # Hope
 Um dos primeiro projetos originais desenvolvidos por mim e em squad, um app mobile idealizado, criado no Hackaton da Recode Pro 2021, processo seletivo do curso Full Stack, consegui a vaga muito por conta dele.
 
+App mobile com objetivo trazer esperança a portadores de deficiência que precisam de doações, fazendo a ponte entre famílias que precisam com possíveis doadores, além de recolher denúncias de locais públicos sem acessibilidade para PCDS, que serão repassadas às prefeituras através do e-mail.
+
 ## TECNOLOGIAS E FERRAMENTAS UTILIZADAS
 
 - App inventor
